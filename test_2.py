@@ -9,7 +9,6 @@ import numpy as np
 
 
 
-
 '''
 # Homogeneous equations
 hom_eq = np.array([[0, 10, 4, -2],
